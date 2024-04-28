@@ -1,5 +1,12 @@
 # periodic
+
 periodic table utility
+
+recognizes regular expressions
+
+put the data CSV where you want then modify periodic.sh
+
+the original CSV data had Wolfram (sumbol W) it is now Tungsten
 
 periodic.awk
 --------------------------------------------------------------------------------
